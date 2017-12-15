@@ -1,0 +1,1 @@
+java -jar data_migration-0.1.jar
